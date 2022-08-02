@@ -6,7 +6,7 @@
 
 I'm **Renan Penna**, a seasoned and polyglot Software Developer. I was born and raised in Pernambuco, Brazil and nowadays i live in João Pessoa, Brazil.
 
-- I have an associate's degree in system analysis and development softwares ([Estacio]https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas), Brazil) 🇧🇷
+- I have an associate's degree in system analysis and development softwares ([Estacio](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas), Brazil) 🇧🇷
 - My favorite programming languages nowadays are **Python** and **Javascript** 🐍
 - My heroes in Computer Science are [Martin Fowler](https://martinfowler.com/) and [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin) 👨‍🏫
 - My heroes in the Software Industry is [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) 🦹‍♂️
