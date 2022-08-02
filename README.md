@@ -10,5 +10,5 @@ I'm **Renan Penna**, a seasoned and polyglot Software Developer. I was born and 
 - My favorite programming languages are **Python** and **Javascript** 🐍
 - My heroes in Computer Science are [Martin Fowler](https://martinfowler.com/) and [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin) 👨‍🏫
 - My heroes in the Software Industry is [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) 🦹‍♂️
-- My favorite book about programming and career in Software is [FLuent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) 📚
+- My favorite book about programming and career in Software is [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) 📚
 - My current interests are **Software development**, **Architecture and Design Patterns**, **DevOps** and **Serverless apps** 👨🏻‍💻 
