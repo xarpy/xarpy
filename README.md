@@ -7,7 +7,7 @@
 
 I'm a Software Engineer with over 8 years of experience building robust, scalable, and data-driven solutions. I specialize in backend development using **Python**, designing **APIs**, and orchestrating **data workflows** in cloud environments.
 
-- 🐍 Passionate about **Python**, **FastAPI**, and clean architecture  
+- 🐍 Passionate about **Python**, **FastAPI**, **Django** and clean architecture  
 - ☁️ Strong experience with **AWS**, **Docker**, and serverless design  
 - 🔄 Worked on real-time systems with **Kafka**, **Redis**, and **Prefect**  
 - 🧠 Currently learning more about **LLMs**, **AI-driven apps**, and **system design**  
